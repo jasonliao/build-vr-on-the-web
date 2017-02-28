@@ -9,7 +9,7 @@
 
 ## Make a Google Cardboard by Yourself
 
-如果你也喜欢动手做点小玩意，可以像我一样做一个零成本的 Google Cardboard，[快看!]()
+如果你也喜欢动手做点小玩意，可以像我一样做一个零成本的 Google Cardboard，[快看!](https://github.com/jasonliao/build-vr-on-the-web/blob/master/how-to-make-a-google-cardboard.md)
 
 ```
  |⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺|

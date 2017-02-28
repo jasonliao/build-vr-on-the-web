@@ -1,4 +1,4 @@
-# How to Make a Google Cardboard
+# How to Make a Google Cardboard by Yourself
 
 这是 [Two Ways to Build VR on the Web]() 的前传，如何制作一个 Google Cardboard。
 
