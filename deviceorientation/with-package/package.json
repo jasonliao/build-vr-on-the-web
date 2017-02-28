@@ -1,0 +1,14 @@
+{
+  "name": "web-vr-demo",
+  "version": "0.0.1",
+  "description": "web vr demo based on device orientation",
+  "main": "index.js",
+  "author": "jasonliao",
+  "license": "MIT",
+  "dependencies": {
+    "three-orbitcontrols": "^1.1.2",
+    "three-stereo-effect": "^1.0.14",
+    "three.js": "^0.77.1",
+    "three.orientation": "^1.1.1"
+  }
+}
