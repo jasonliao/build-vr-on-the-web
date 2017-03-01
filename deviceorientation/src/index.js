@@ -23,7 +23,7 @@ function init() {
   scene.add(new THREE.AmbientLight(0xaaaaaa, 0.3))
 
   // GEOMERTRY
-  geometry = new THREE.BoxGeometry(0.5, 0.5, 0.5)
+  geometry = new THREE.BoxGeometry(1, 1, 1)
 
   // MATERIAL
   material = new THREE.MeshLambertMaterial({
