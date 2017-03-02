@@ -5,7 +5,7 @@
 * [Device Orientation Demo](https://jasonliao.me/build-vr-on-the-web/deviceorientation/)
 * [WebVR API Demo](https://jasonliao.me/build-vr-on-the-web/webvr/)
 
-对 Demo 的详细讲解和更多两者的区别可以查看我的 blog - [Two Ways to Build VR on the Web]()，里面的关键代码我都会解释喔！
+对 Demo 的详细讲解和更多两者的区别可以查看我的 blog - [Two Ways to Build VR on the Web](http://jasonliao.me/posts/2017-03-02-two-way-to-web-vr.html)，里面的关键代码我都会解释喔！
 
 ## Make a Google Cardboard by Yourself
 

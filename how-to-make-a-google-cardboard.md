@@ -1,6 +1,6 @@
 # How to Make a Google Cardboard by Yourself
 
-这是 [Two Ways to Build VR on the Web]() 的前传，如何制作一个 Google Cardboard。
+这是 [Two Ways to Build VR on the Web](http://jasonliao.me/posts/2017-03-02-two-way-to-web-vr.html) 的前传，如何制作一个 Google Cardboard。
 
 当然零成本的体验也不会太好，如果觉得动手很麻烦，各大电商网站一搜也有很多。但我可是从小看[《艺术创想》](http://search.bilibili.com/all?keyword=%E8%89%BA%E6%9C%AF%E5%88%9B%E6%83%B3)的人，如果你也是，那就来吧！
 
@@ -17,7 +17,7 @@
 
 上面就是所有需要的东西，如果你家里有打印机，有过年吃完没扔的丹麦蓝罐曲奇盒，邻居家有电铬铁，平时也有收集可口可乐瓶的习惯，那么这个 Google Cardboard，就会是 **零成本** 呀！
 
-这就是最终做好的样子，如果不符合预期就不要往下看啦，赶紧去看 [Two Ways to Build VR on the Web]() 的正文，去了解如何开发一个 Web VR 的小页面吧！
+这就是最终做好的样子，如果不符合预期就不要往下看啦，赶紧去看 [Two Ways to Build VR on the Web](http://jasonliao.me/posts/2017-03-02-two-way-to-web-vr.html) 的正文，去了解如何开发一个 Web VR 的小页面吧！
 
 ![Google Cardboard](https://ws1.sinaimg.cn/large/7988751aly1fckhi2sasnj20zk0zkn2t)
 
@@ -45,7 +45,7 @@
 * Sites in VR 这个 App 也一样，打开你想要看的，点击 Cardboard 的图标，切换成 Cardboard 模式即可。不过每一个都要预先下载，而且也几是一些风景，可玩性不怎么高。
 * Gardboard 这个 App 里面分享了其他很多 VR 的 App，本身也自带一个很好玩的 Demo 喔！
 
-但这都是别人的，我们怎么可以制作自己的 VR 小页面，里面放我们自己的东西呢？快来看看 [Two Ways to Build VR on the Web]() 的正文吧！
+但这都是别人的，我们怎么可以制作自己的 VR 小页面，里面放我们自己的东西呢？快来看看 [Two Ways to Build VR on the Web](http://jasonliao.me/posts/2017-03-02-two-way-to-web-vr.html) 的正文吧！
 
 
 
